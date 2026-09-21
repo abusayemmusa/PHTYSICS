@@ -1,1 +1,315 @@
-
+2. THERMODYNAMICS
+│
+├── 1. Foundations of Thermodynamics
+│   ├── Introduction to Thermodynamics
+│   ├── Scope and Applications
+│   ├── Macroscopic and Microscopic Viewpoints
+│   ├── Thermodynamic Systems
+│   ├── Surroundings and Boundaries
+│   ├── System Classification
+│   │   ├── Open Systems
+│   │   ├── Closed Systems
+│   │   └── Isolated Systems
+│   ├── Thermodynamic Variables
+│   └── Thermodynamic Equilibrium
+│
+├── 2. Mathematical Foundations
+│   ├── Algebra
+│   ├── Differential Calculus
+│   ├── Integral Calculus
+│   ├── Partial Derivatives
+│   ├── Total Differentials
+│   ├── Exact and Inexact Differentials
+│   ├── Differential Equations
+│   ├── Multivariable Calculus
+│   └── Vector Calculus
+│
+├── 3. Temperature and Thermal Equilibrium
+│   ├── Concept of Temperature
+│   ├── Thermal Equilibrium
+│   ├── Zeroth Law of Thermodynamics
+│   ├── Temperature Scales
+│   │   ├── Celsius
+│   │   ├── Fahrenheit
+│   │   └── Kelvin
+│   ├── Thermometers
+│   ├── Absolute Temperature
+│   └── Temperature Measurement
+│
+├── 4. Heat and Work
+│   ├── Heat Transfer
+│   ├── Mechanical Work
+│   ├── Pressure–Volume Work
+│   ├── Expansion Work
+│   ├── Compression Work
+│   ├── Reversible Work
+│   ├── Irreversible Work
+│   ├── Heat Capacity
+│   ├── Specific Heat
+│   └── Latent Heat
+│
+├── 5. First Law of Thermodynamics
+│   ├── Conservation of Energy
+│   ├── Internal Energy
+│   ├── First Law Equation
+│   ├── Closed-System Energy Balance
+│   ├── Open-System Energy Balance
+│   ├── Enthalpy
+│   ├── Cyclic Processes
+│   ├── State Functions
+│   └── Path Functions
+│
+├── 6. Thermodynamic Processes
+│   ├── Isothermal Process
+│   ├── Adiabatic Process
+│   ├── Isobaric Process
+│   ├── Isochoric Process
+│   ├── Polytropic Process
+│   ├── Reversible Process
+│   ├── Irreversible Process
+│   ├── Quasi-Static Process
+│   └── Free Expansion
+│
+├── 7. Ideal Gases
+│   ├── Ideal Gas Model
+│   ├── Ideal Gas Equation
+│   ├── Gas Constants
+│   ├── Boyle's Law
+│   ├── Charles' Law
+│   ├── Gay-Lussac's Law
+│   ├── Avogadro's Law
+│   ├── Combined Gas Law
+│   ├── Mixtures of Ideal Gases
+│   └── Equipartition of Energy
+│
+├── 8. Real Gases
+│   ├── Real Gas Behavior
+│   ├── Compressibility Factor
+│   ├── Van der Waals Equation
+│   ├── Virial Equation
+│   ├── Critical Temperature
+│   ├── Critical Pressure
+│   ├── Critical Volume
+│   ├── Joule–Thomson Effect
+│   └── Gas Liquefaction
+│
+├── 9. Second Law of Thermodynamics
+│   ├── Limitations of First Law
+│   ├── Direction of Natural Processes
+│   ├── Kelvin–Planck Statement
+│   ├── Clausius Statement
+│   ├── Reversible and Irreversible Processes
+│   ├── Heat Engines
+│   ├── Refrigerators
+│   ├── Heat Pumps
+│   └── Thermal Efficiency
+│
+├── 10. Entropy
+│   ├── Concept of Entropy
+│   ├── Entropy as a State Function
+│   ├── Entropy Change
+│   ├── Entropy Generation
+│   ├── Clausius Inequality
+│   ├── Entropy of Ideal Gases
+│   ├── Entropy Balance
+│   ├── Entropy and Irreversibility
+│   └── Entropy and Information
+│
+├── 11. Carnot Cycle
+│   ├── Carnot Engine
+│   ├── Carnot Cycle Processes
+│   ├── Isothermal Expansion
+│   ├── Adiabatic Expansion
+│   ├── Isothermal Compression
+│   ├── Adiabatic Compression
+│   ├── Carnot Efficiency
+│   ├── Carnot Theorem
+│   └── Reversible Heat Engines
+│
+├── 12. Thermodynamic Cycles
+│   ├── Otto Cycle
+│   ├── Diesel Cycle
+│   ├── Dual Cycle
+│   ├── Brayton Cycle
+│   ├── Rankine Cycle
+│   ├── Stirling Cycle
+│   ├── Ericsson Cycle
+│   ├── Refrigeration Cycles
+│   └── Combined Cycles
+│
+├── 13. Thermodynamic Potentials
+│   ├── Internal Energy
+│   ├── Enthalpy
+│   ├── Helmholtz Free Energy
+│   ├── Gibbs Free Energy
+│   ├── Legendre Transformations
+│   ├── Natural Variables
+│   ├── Thermodynamic Equilibrium
+│   └── Stability Criteria
+│
+├── 14. Maxwell Relations
+│   ├── Exact Differentials
+│   ├── Thermodynamic Identities
+│   ├── Maxwell Relations
+│   ├── Enthalpy Relations
+│   ├── Entropy Relations
+│   ├── Heat Capacity Relations
+│   ├── Thermal Expansion Coefficient
+│   └── Compressibility
+│
+├── 15. Phase Transitions
+│   ├── Phases of Matter
+│   ├── Phase Equilibrium
+│   ├── Phase Diagrams
+│   ├── First-Order Phase Transitions
+│   ├── Second-Order Phase Transitions
+│   ├── Latent Heat
+│   ├── Clausius–Clapeyron Equation
+│   ├── Critical Phenomena
+│   └── Triple Point
+│
+├── 16. Chemical Thermodynamics
+│   ├── Chemical Potential
+│   ├── Chemical Equilibrium
+│   ├── Reaction Thermodynamics
+│   ├── Gibbs Free Energy
+│   ├── Enthalpy of Formation
+│   ├── Entropy of Reaction
+│   ├── Equilibrium Constants
+│   ├── Fugacity
+│   └── Activity
+│
+├── 17. Statistical Thermodynamics
+│   ├── Microstates and Macrostates
+│   ├── Statistical Ensembles
+│   ├── Microcanonical Ensemble
+│   ├── Canonical Ensemble
+│   ├── Grand Canonical Ensemble
+│   ├── Boltzmann Distribution
+│   ├── Partition Function
+│   ├── Molecular Energy Levels
+│   └── Statistical Entropy
+│
+├── 18. Kinetic Theory of Gases
+│   ├── Molecular Motion
+│   ├── Molecular Collisions
+│   ├── Mean Free Path
+│   ├── Molecular Speed Distribution
+│   ├── Maxwell–Boltzmann Distribution
+│   ├── Transport Phenomena
+│   ├── Diffusion
+│   ├── Thermal Conductivity
+│   └── Viscosity
+│
+├── 19. Heat Transfer
+│   ├── Conduction
+│   ├── Convection
+│   ├── Radiation
+│   ├── Fourier's Law
+│   ├── Newton's Law of Cooling
+│   ├── Stefan–Boltzmann Law
+│   ├── Thermal Resistance
+│   ├── Heat Exchangers
+│   └── Transient Heat Transfer
+│
+├── 20. Thermal Properties of Matter
+│   ├── Thermal Expansion
+│   ├── Thermal Conductivity
+│   ├── Specific Heat Capacity
+│   ├── Calorimetry
+│   ├── Phase Change
+│   ├── Thermal Diffusivity
+│   ├── Equation of State
+│   └── Material Thermal Properties
+│
+├── 21. Open-System Thermodynamics
+│   ├── Control Volume
+│   ├── Mass Conservation
+│   ├── Energy Conservation
+│   ├── Steady-Flow Energy Equation
+│   ├── Turbines
+│   ├── Compressors
+│   ├── Pumps
+│   ├── Nozzles
+│   ├── Diffusers
+│   └── Throttling Devices
+│
+├── 22. Exergy and Availability
+│   ├── Concept of Exergy
+│   ├── Energy Quality
+│   ├── Availability
+│   ├── Exergy Destruction
+│   ├── Second-Law Efficiency
+│   ├── Exergy Balance
+│   └── Thermodynamic Optimization
+│
+├── 23. Non-Equilibrium Thermodynamics
+│   ├── Equilibrium and Non-Equilibrium
+│   ├── Irreversible Thermodynamics
+│   ├── Entropy Production
+│   ├── Onsager Relations
+│   ├── Transport Processes
+│   ├── Linear Response Theory
+│   └── Coupled Fluxes
+│
+├── 24. Thermodynamics of Solutions
+│   ├── Ideal Solutions
+│   ├── Non-Ideal Solutions
+│   ├── Mixing Entropy
+│   ├── Raoult's Law
+│   ├── Henry's Law
+│   ├── Chemical Potential
+│   ├── Osmosis
+│   └── Activity Coefficients
+│
+├── 25. Electrochemical Thermodynamics
+│   ├── Electrochemical Cells
+│   ├── Electrode Potential
+│   ├── Nernst Equation
+│   ├── Electrochemical Equilibrium
+│   ├── Batteries
+│   ├── Fuel Cells
+│   ├── Electrolysis
+│   └── Energy Conversion
+│
+├── 26. Thermodynamics of Materials
+│   ├── Solid-State Thermodynamics
+│   ├── Crystal Systems
+│   ├── Defects in Materials
+│   ├── Phase Stability
+│   ├── Alloy Thermodynamics
+│   ├── Magnetic Materials
+│   ├── Semiconductor Thermodynamics
+│   └── Materials Processing
+│
+├── 27. Quantum Thermodynamics
+│   ├── Quantum States
+│   ├── Quantum Heat Engines
+│   ├── Quantum Entropy
+│   ├── Quantum Work
+│   ├── Open Quantum Systems
+│   ├── Quantum Information
+│   └── Quantum Thermodynamic Processes
+│
+├── 28. Computational Thermodynamics
+│   ├── Numerical Thermodynamics
+│   ├── Thermodynamic Simulation
+│   ├── Molecular Dynamics
+│   ├── Monte Carlo Methods
+│   ├── Computational Fluid Dynamics
+│   ├── Equation-of-State Modeling
+│   ├── Numerical Optimization
+│   └── Scientific Programming
+│
+└── 29. Applications of Thermodynamics
+    ├── Mechanical Engineering
+    ├── Chemical Engineering
+    ├── Aerospace Engineering
+    ├── Energy Engineering
+    ├── Environmental Engineering
+    ├── Nanotechnology
+    ├── Biophysics
+    ├── Astrophysics
+    ├── Climate Science
+    ├── Robotics
+    └── Computer Engineering
