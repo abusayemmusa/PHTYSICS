@@ -1,1 +1,403 @@
+5. QUANTUM MECHANICS
 
+1. FOUNDATIONS OF QUANTUM MECHANICS
+   1.1 Classical Physics Limitations
+   1.2 Blackbody Radiation
+   1.3 Photoelectric Effect
+   1.4 Compton Effect
+   1.5 Atomic Spectra
+   1.6 Wave-Particle Duality
+   1.7 de Broglie Hypothesis
+   1.8 Heisenberg Uncertainty Principle
+   1.9 Quantum Superposition
+   1.10 Quantum Measurement
+   1.11 Correspondence Principle
+
+2. MATHEMATICAL FOUNDATIONS
+   2.1 Complex Numbers
+   2.2 Complex Functions
+   2.3 Vector Spaces
+   2.4 Hilbert Spaces
+   2.5 Linear Algebra
+   2.6 Matrices
+   2.7 Eigenvalues and Eigenvectors
+   2.8 Inner Product
+   2.9 Orthogonality
+   2.10 Fourier Analysis
+   2.11 Differential Equations
+   2.12 Probability Theory
+   2.13 Dirac Delta Function
+   2.14 Special Functions
+
+3. QUANTUM STATES
+   3.1 State Vectors
+   3.2 Wave Functions
+   3.3 Probability Interpretation
+   3.4 Normalization
+   3.5 Probability Density
+   3.6 Superposition of States
+   3.7 Orthogonal States
+   3.8 Basis States
+   3.9 Quantum State Space
+   3.10 Pure States
+   3.11 Mixed States
+   3.12 Density Matrix
+
+4. WAVE FUNCTION
+   4.1 Properties of Wave Function
+   4.2 Boundary Conditions
+   4.3 Continuity of Wave Function
+   4.4 Normalizable Wave Functions
+   4.5 Probability Current
+   4.6 Stationary States
+   4.7 Wave Packets
+   4.8 Fourier Transform of Wave Functions
+   4.9 Position Representation
+   4.10 Momentum Representation
+
+5. SCHRÖDINGER EQUATION
+   5.1 Time-Dependent Schrödinger Equation
+   5.2 Time-Independent Schrödinger Equation
+   5.3 Hamiltonian Operator
+   5.4 Energy Eigenstates
+   5.5 Stationary-State Solutions
+   5.6 Free Particle
+   5.7 Particle in a Box
+   5.8 Infinite Potential Well
+   5.9 Finite Potential Well
+   5.10 Quantum Harmonic Oscillator
+   5.11 Quantum Tunneling
+   5.12 Potential Step
+   5.13 Potential Barrier
+
+6. OPERATORS AND OBSERVABLES
+   6.1 Linear Operators
+   6.2 Hermitian Operators
+   6.3 Unitary Operators
+   6.4 Projection Operators
+   6.5 Position Operator
+   6.6 Momentum Operator
+   6.7 Energy Operator
+   6.8 Angular Momentum Operator
+   6.9 Commutators
+   6.10 Operator Algebra
+   6.11 Expectation Values
+   6.12 Eigenstates and Measurements
+
+7. QUANTUM MEASUREMENT
+   7.1 Measurement Postulates
+   7.2 Observables
+   7.3 Measurement Probabilities
+   7.4 Projection Measurement
+   7.5 Quantum State Collapse
+   7.6 Compatible Observables
+   7.7 Incompatible Observables
+   7.8 Measurement Disturbance
+   7.9 Generalized Measurements
+   7.10 POVM Measurements
+
+8. UNCERTAINTY PRINCIPLES
+   8.1 Heisenberg Uncertainty Principle
+   8.2 Position-Momentum Uncertainty
+   8.3 Energy-Time Uncertainty
+   8.4 Angular Momentum Uncertainty
+   8.5 Robertson Uncertainty Relation
+   8.6 Schrödinger Uncertainty Relation
+   8.7 Minimum Uncertainty States
+
+9. QUANTUM HARMONIC OSCILLATOR
+   9.1 Classical Harmonic Oscillator
+   9.2 Quantum Harmonic Oscillator
+   9.3 Ladder Operators
+   9.4 Creation Operator
+   9.5 Annihilation Operator
+   9.6 Ground-State Energy
+   9.7 Zero-Point Energy
+   9.8 Coherent States
+   9.9 Squeezed States
+   9.10 Quantum Oscillator Applications
+
+10. ANGULAR MOMENTUM
+    10.1 Orbital Angular Momentum
+    10.2 Angular Momentum Operators
+    10.3 Commutation Relations
+    10.4 Eigenvalues of Angular Momentum
+    10.5 Spherical Coordinates
+    10.6 Spherical Harmonics
+    10.7 Magnetic Quantum Number
+    10.8 Total Angular Momentum
+    10.9 Addition of Angular Momenta
+    10.10 Clebsch-Gordan Coefficients
+
+11. SPIN
+    11.1 Intrinsic Spin
+    11.2 Spin-1/2 Particles
+    11.3 Pauli Matrices
+    11.4 Spin Operators
+    11.5 Stern-Gerlach Experiment
+    11.6 Spin Measurement
+    11.7 Spin Precession
+    11.8 Bloch Sphere
+    11.9 Spin-Spin Coupling
+    11.10 Spin Qubits
+
+12. HYDROGEN ATOM
+    12.1 Hydrogen Atom Model
+    12.2 Schrödinger Equation for Hydrogen
+    12.3 Quantum Numbers
+    12.4 Principal Quantum Number
+    12.5 Orbital Quantum Number
+    12.6 Magnetic Quantum Number
+    12.7 Spin Quantum Number
+    12.8 Hydrogen Energy Levels
+    12.9 Atomic Orbitals
+    12.10 Probability Distribution
+    12.11 Selection Rules
+    12.12 Spectral Transitions
+
+13. MULTI-ELECTRON ATOMS
+    13.1 Electron-Electron Interaction
+    13.2 Approximation Methods
+    13.3 Pauli Exclusion Principle
+    13.4 Aufbau Principle
+    13.5 Hund's Rules
+    13.6 Atomic Configurations
+    13.7 Screening Effect
+    13.8 Exchange Interaction
+    13.9 Fine Structure
+    13.10 Zeeman Effect
+    13.11 Stark Effect
+
+14. IDENTICAL PARTICLES
+    14.1 Indistinguishability
+    14.2 Bosons
+    14.3 Fermions
+    14.4 Symmetric Wave Functions
+    14.5 Antisymmetric Wave Functions
+    14.6 Pauli Exclusion Principle
+    14.7 Exchange Symmetry
+    14.8 Fermi-Dirac Statistics
+    14.9 Bose-Einstein Statistics
+    14.10 Particle Exchange
+
+15. APPROXIMATION METHODS
+    15.1 Perturbation Theory
+    15.2 Time-Independent Perturbation
+    15.3 Time-Dependent Perturbation
+    15.4 Degenerate Perturbation Theory
+    15.5 Variational Method
+    15.6 WKB Approximation
+    15.7 Adiabatic Approximation
+    15.8 Sudden Approximation
+    15.9 Born Approximation
+    15.10 Semi-Classical Approximation
+
+16. QUANTUM SCATTERING
+    16.1 Scattering Theory
+    16.2 Scattering Amplitude
+    16.3 Differential Cross Section
+    16.4 Total Cross Section
+    16.5 Partial Wave Analysis
+    16.6 Born Approximation
+    16.7 Rutherford Scattering
+    16.8 Potential Scattering
+    16.9 Resonance Scattering
+    16.10 S-Matrix
+
+17. QUANTUM DYNAMICS
+    17.1 Time Evolution
+    17.2 Time-Evolution Operator
+    17.3 Schrödinger Picture
+    17.4 Heisenberg Picture
+    17.5 Interaction Picture
+    17.6 Quantum Transitions
+    17.7 Rabi Oscillations
+    17.8 Quantum Decoherence
+    17.9 Open Quantum Systems
+    17.10 Lindblad Equation
+
+18. QUANTUM ENTANGLEMENT
+    18.1 Composite Quantum Systems
+    18.2 Tensor Product
+    18.3 Entangled States
+    18.4 Bell States
+    18.5 Bell's Theorem
+    18.6 EPR Paradox
+    18.7 Quantum Correlation
+    18.8 Quantum Nonlocality
+    18.9 Entanglement Entropy
+    18.10 Entanglement Measures
+
+19. QUANTUM INFORMATION
+    19.1 Qubits
+    19.2 Quantum Gates
+    19.3 Quantum Circuits
+    19.4 Quantum Algorithms
+    19.5 Quantum Teleportation
+    19.6 Superdense Coding
+    19.7 Quantum Error Correction
+    19.8 Quantum Cryptography
+    19.9 Quantum Communication
+    19.10 Quantum Information Theory
+
+20. QUANTUM COMPUTING
+    20.1 Quantum Computing Fundamentals
+    20.2 Quantum Circuit Model
+    20.3 Quantum Hardware
+    20.4 Superconducting Qubits
+    20.5 Trapped-Ion Qubits
+    20.6 Photonic Qubits
+    20.7 Quantum Annealing
+    20.8 Shor's Algorithm
+    20.9 Grover's Algorithm
+    20.10 Variational Quantum Algorithms
+    20.11 NISQ Computing
+    20.12 Fault-Tolerant Quantum Computing
+
+21. QUANTUM STATISTICAL MECHANICS
+    21.1 Quantum Ensembles
+    21.2 Density Operators
+    21.3 Microcanonical Ensemble
+    21.4 Canonical Ensemble
+    21.5 Grand Canonical Ensemble
+    21.6 Quantum Partition Function
+    21.7 Fermi Gas
+    21.8 Bose Gas
+    21.9 Quantum Statistics
+    21.10 Low-Temperature Physics
+
+22. CONDENSED MATTER QUANTUM PHYSICS
+    22.1 Crystal Structure
+    22.2 Free Electron Model
+    22.3 Band Theory
+    22.4 Bloch Theorem
+    22.5 Energy Bands
+    22.6 Conductors
+    22.7 Semiconductors
+    22.8 Insulators
+    22.9 Quantum Hall Effect
+    22.10 Topological Insulators
+    22.11 Superconductivity
+    22.12 Superfluidity
+
+23. QUANTUM FIELD THEORY INTRODUCTION
+    23.1 Classical Fields
+    23.2 Quantum Fields
+    23.3 Second Quantization
+    23.4 Creation and Annihilation Operators
+    23.5 Quantum Electrodynamics
+    23.6 Feynman Diagrams
+    23.7 Gauge Fields
+    23.8 Relativistic Quantum Mechanics
+    23.9 Klein-Gordon Equation
+    23.10 Dirac Equation
+
+24. QUANTUM ELECTRODYNAMICS
+    24.1 Quantization of Electromagnetic Field
+    24.2 Photons
+    24.3 Photon Emission
+    24.4 Photon Absorption
+    24.5 Electron-Photon Interaction
+    24.6 Feynman Rules
+    24.7 Vacuum Fluctuations
+    24.8 Lamb Shift
+    24.9 Casimir Effect
+    24.10 Quantum Electrodynamics Applications
+
+25. QUANTUM OPTICS
+    25.1 Quantum Nature of Light
+    25.2 Single-Photon States
+    25.3 Coherent States
+    25.4 Squeezed Light
+    25.5 Photon Statistics
+    25.6 Quantum Interference
+    25.7 Quantum Entanglement
+    25.8 Quantum Sensors
+    25.9 Quantum Imaging
+    25.10 Quantum Communication
+
+26. QUANTUM MEASUREMENT AND FOUNDATIONS
+    26.1 Copenhagen Interpretation
+    26.2 Many-Worlds Interpretation
+    26.3 Pilot-Wave Theory
+    26.4 Objective Collapse Theories
+    26.5 Measurement Problem
+    26.6 Quantum Contextuality
+    26.7 Quantum Logic
+    26.8 Wigner's Friend
+    26.9 Quantum Foundations Experiments
+
+27. QUANTUM INFORMATION SECURITY
+    27.1 Quantum Key Distribution
+    27.2 BB84 Protocol
+    27.3 E91 Protocol
+    27.4 Post-Quantum Cryptography
+    27.5 Quantum Random Number Generation
+    27.6 Quantum Authentication
+    27.7 Quantum-Safe Encryption
+    27.8 Quantum Network Security
+
+28. QUANTUM SENSING AND METROLOGY
+    28.1 Quantum Sensors
+    28.2 Atomic Clocks
+    28.3 Quantum Magnetometers
+    28.4 Quantum Gravimeters
+    28.5 Quantum Imaging
+    28.6 Quantum Metrology
+    28.7 Precision Measurement
+    28.8 Quantum Radar Concepts
+    28.9 Quantum Navigation
+
+29. QUANTUM BIOLOGY
+    29.1 Quantum Effects in Biology
+    29.2 Photosynthesis
+    29.3 Enzyme Reactions
+    29.4 Avian Magnetoreception
+    29.5 Quantum Coherence in Biology
+    29.6 Quantum Tunneling in Biology
+    29.7 Biophysical Quantum Models
+
+30. QUANTUM MATERIALS AND NANOTECHNOLOGY
+    30.1 Quantum Dots
+    30.2 Quantum Wells
+    30.3 Quantum Wires
+    30.4 Nanostructures
+    30.5 Carbon Nanotubes
+    30.6 Graphene
+    30.7 Spintronics
+    30.8 Molecular Electronics
+    30.9 Quantum Devices
+    30.10 Nanoelectronics
+
+31. QUANTUM MACHINE LEARNING
+    31.1 Quantum Data Representation
+    31.2 Quantum Feature Maps
+    31.3 Quantum Kernels
+    31.4 Variational Quantum Classifiers
+    31.5 Quantum Neural Networks
+    31.6 Quantum Optimization
+    31.7 Quantum Reinforcement Learning
+    31.8 Hybrid Quantum-Classical ML
+    31.9 Quantum Generative Models
+    31.10 Quantum AI Research
+
+32. QUANTUM ROBOTICS
+    32.1 Quantum Sensors for Robotics
+    32.2 Quantum Navigation
+    32.3 Quantum Communication for Robots
+    32.4 Quantum Control
+    32.5 Quantum Optimization for Planning
+    32.6 Quantum Machine Vision
+    32.7 Quantum-Inspired Robotics
+
+33. ADVANCED QUANTUM PHYSICS
+    33.1 Quantum Thermodynamics
+    33.2 Quantum Chaos
+    33.3 Quantum Gravity
+    33.4 Loop Quantum Gravity
+    33.5 String Theory
+    33.6 Quantum Cosmology
+    33.7 Quantum Information Geometry
+    33.8 Topological Quantum Computing
+    33.9 Quantum Simulation
+    33.10 Quantum Networks
