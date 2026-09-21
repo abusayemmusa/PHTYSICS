@@ -1,1 +1,328 @@
-
+1. CLASSICAL MECHANICS
+│
+├── 1. Foundations of Classical Mechanics
+│   ├── Introduction to Mechanics
+│   ├── Physical Quantities
+│   ├── Units and Dimensions
+│   ├── Scalars and Vectors
+│   ├── Coordinate Systems
+│   ├── Reference Frames
+│   ├── Inertial and Non-Inertial Frames
+│   └── Mathematical Methods in Mechanics
+│
+├── 2. Mathematical Foundations
+│   ├── Algebra
+│   ├── Trigonometry
+│   ├── Differential Calculus
+│   ├── Integral Calculus
+│   ├── Partial Differentiation
+│   ├── Vector Calculus
+│   ├── Differential Equations
+│   ├── Linear Algebra
+│   └── Numerical Methods
+│
+├── 3. Kinematics
+│   ├── Position and Displacement
+│   ├── Distance and Path Length
+│   ├── Speed and Velocity
+│   ├── Acceleration
+│   ├── One-Dimensional Motion
+│   ├── Two-Dimensional Motion
+│   ├── Three-Dimensional Motion
+│   ├── Uniform Motion
+│   ├── Uniformly Accelerated Motion
+│   ├── Projectile Motion
+│   ├── Relative Motion
+│   ├── Motion Graphs
+│   └── Parametric Motion
+│
+├── 4. Newtonian Mechanics
+│   ├── Newton's First Law
+│   ├── Newton's Second Law
+│   ├── Newton's Third Law
+│   ├── Mass and Force
+│   ├── Free-Body Diagrams
+│   ├── Inertial Frames
+│   ├── Applications of Newton's Laws
+│   ├── Multiple-Body Systems
+│   └── Constraints and Reactions
+│
+├── 5. Forces
+│   ├── Gravitational Force
+│   ├── Normal Force
+│   ├── Frictional Force
+│   ├── Static Friction
+│   ├── Kinetic Friction
+│   ├── Tension
+│   ├── Spring Force
+│   ├── Drag Force
+│   ├── Centripetal Force
+│   ├── Elastic Force
+│   └── Contact Forces
+│
+├── 6. Work, Energy and Power
+│   ├── Work Done by a Force
+│   ├── Variable Force
+│   ├── Kinetic Energy
+│   ├── Potential Energy
+│   ├── Gravitational Potential Energy
+│   ├── Elastic Potential Energy
+│   ├── Work–Energy Theorem
+│   ├── Conservation of Energy
+│   ├── Power
+│   └── Conservative and Non-Conservative Forces
+│
+├── 7. Momentum and Collisions
+│   ├── Linear Momentum
+│   ├── Impulse
+│   ├── Conservation of Momentum
+│   ├── Elastic Collisions
+│   ├── Inelastic Collisions
+│   ├── Perfectly Inelastic Collisions
+│   ├── One-Dimensional Collisions
+│   ├── Two-Dimensional Collisions
+│   ├── Center-of-Mass Frame
+│   └── Rocket Motion
+│
+├── 8. Circular Motion
+│   ├── Uniform Circular Motion
+│   ├── Non-Uniform Circular Motion
+│   ├── Angular Velocity
+│   ├── Angular Acceleration
+│   ├── Centripetal Acceleration
+│   ├── Centripetal Force
+│   ├── Vertical Circular Motion
+│   ├── Banking of Roads
+│   └── Conical Pendulum
+│
+├── 9. Rotational Kinematics
+│   ├── Angular Displacement
+│   ├── Angular Velocity
+│   ├── Angular Acceleration
+│   ├── Rotational Motion Equations
+│   ├── Relationship Between Linear and Angular Motion
+│   ├── Rolling Motion
+│   ├── Pure Rolling
+│   └── Combined Translation and Rotation
+│
+├── 10. Rotational Dynamics
+│   ├── Torque
+│   ├── Moment of Force
+│   ├── Angular Momentum
+│   ├── Conservation of Angular Momentum
+│   ├── Moment of Inertia
+│   ├── Radius of Gyration
+│   ├── Parallel Axis Theorem
+│   ├── Perpendicular Axis Theorem
+│   ├── Rotational Work and Energy
+│   └── Rotational Equilibrium
+│
+├── 11. Rigid Body Mechanics
+│   ├── Rigid Body Motion
+│   ├── Translation of Rigid Bodies
+│   ├── Rotation of Rigid Bodies
+│   ├── General Plane Motion
+│   ├── Center of Mass
+│   ├── Center of Gravity
+│   ├── Principal Axes
+│   ├── Inertia Tensor
+│   └── Rigid Body Stability
+│
+├── 12. Gravitation
+│   ├── Newton's Law of Gravitation
+│   ├── Gravitational Field
+│   ├── Gravitational Potential
+│   ├── Gravitational Potential Energy
+│   ├── Escape Velocity
+│   ├── Orbital Velocity
+│   ├── Kepler's Laws
+│   ├── Satellite Motion
+│   ├── Geostationary Satellites
+│   └── Gravitational Orbits
+│
+├── 13. Oscillations
+│   ├── Periodic Motion
+│   ├── Simple Harmonic Motion
+│   ├── SHM Differential Equation
+│   ├── Energy of SHM
+│   ├── Spring–Mass System
+│   ├── Simple Pendulum
+│   ├── Physical Pendulum
+│   ├── Torsional Pendulum
+│   ├── Damped Oscillations
+│   ├── Forced Oscillations
+│   ├── Resonance
+│   └── Coupled Oscillators
+│
+├── 14. Nonlinear Dynamics
+│   ├── Nonlinear Equations of Motion
+│   ├── Phase Space
+│   ├── Stability Analysis
+│   ├── Fixed Points
+│   ├── Bifurcation
+│   ├── Nonlinear Oscillations
+│   ├── Chaos
+│   ├── Strange Attractors
+│   └── Sensitivity to Initial Conditions
+│
+├── 15. Fluid Mechanics
+│   ├── Properties of Fluids
+│   ├── Fluid Pressure
+│   ├── Density
+│   ├── Viscosity
+│   ├── Surface Tension
+│   ├── Buoyancy
+│   ├── Continuity Equation
+│   ├── Bernoulli's Equation
+│   ├── Pascal's Law
+│   ├── Archimedes' Principle
+│   ├── Laminar Flow
+│   ├── Turbulent Flow
+│   └── Navier–Stokes Equations
+│
+├── 16. Elasticity and Deformation
+│   ├── Stress and Strain
+│   ├── Hooke's Law
+│   ├── Young's Modulus
+│   ├── Bulk Modulus
+│   ├── Shear Modulus
+│   ├── Poisson's Ratio
+│   ├── Elastic Limit
+│   ├── Bending of Beams
+│   └── Torsion
+│
+├── 17. Non-Inertial Reference Frames
+│   ├── Accelerating Frames
+│   ├── Rotating Frames
+│   ├── Fictitious Forces
+│   ├── Centrifugal Force
+│   ├── Coriolis Force
+│   ├── Euler Force
+│   ├── Earth's Rotation
+│   └── Foucault Pendulum
+│
+├── 18. Analytical Mechanics
+│   ├── Generalized Coordinates
+│   ├── Degrees of Freedom
+│   ├── Constraints
+│   ├── Virtual Displacement
+│   ├── D'Alembert's Principle
+│   ├── Lagrangian Mechanics
+│   ├── Euler–Lagrange Equation
+│   ├── Hamiltonian Mechanics
+│   ├── Hamilton's Equations
+│   └── Action Principle
+│
+├── 19. Lagrangian Mechanics
+│   ├── Configuration Space
+│   ├── Generalized Velocity
+│   ├── Kinetic and Potential Energy
+│   ├── Lagrangian Function
+│   ├── Holonomic Constraints
+│   ├── Non-Holonomic Constraints
+│   ├── Cyclic Coordinates
+│   ├── Conserved Quantities
+│   └── Small Oscillations
+│
+├── 20. Hamiltonian Mechanics
+│   ├── Generalized Momentum
+│   ├── Hamiltonian Function
+│   ├── Phase Space
+│   ├── Canonical Equations
+│   ├── Poisson Brackets
+│   ├── Canonical Transformations
+│   ├── Hamilton–Jacobi Equation
+│   └── Action–Angle Variables
+│
+├── 21. Central Force Motion
+│   ├── Central Forces
+│   ├── Effective Potential
+│   ├── Orbital Equations
+│   ├── Reduced Mass
+│   ├── Two-Body Problem
+│   ├── Kepler Problem
+│   ├── Scattering
+│   ├── Rutherford Scattering
+│   └── Orbit Stability
+│
+├── 22. Small Oscillations
+│   ├── Coupled Oscillators
+│   ├── Normal Coordinates
+│   ├── Normal Modes
+│   ├── Eigenvalue Problems
+│   ├── Matrix Formulation
+│   ├── Vibrational Systems
+│   └── Stability of Equilibrium
+│
+├── 23. Continuum Mechanics
+│   ├── Continuum Approximation
+│   ├── Stress Tensor
+│   ├── Strain Tensor
+│   ├── Conservation Laws
+│   ├── Elastic Continua
+│   ├── Fluid Continua
+│   ├── Continuum Deformation
+│   └── Constitutive Equations
+│
+├── 24. Mathematical Methods
+│   ├── Ordinary Differential Equations
+│   ├── Partial Differential Equations
+│   ├── Fourier Analysis
+│   ├── Laplace Transform
+│   ├── Vector Calculus
+│   ├── Tensor Analysis
+│   ├── Eigenvalues and Eigenvectors
+│   ├── Numerical Integration
+│   ├── Numerical Differentiation
+│   └── Computational Simulation
+│
+├── 25. Statistical Mechanics Connection
+│   ├── Microstates and Macrostates
+│   ├── Phase Space
+│   ├── Classical Ensembles
+│   ├── Maxwell–Boltzmann Distribution
+│   ├── Ergodic Hypothesis
+│   ├── Liouville's Theorem
+│   └── Foundations of Statistical Mechanics
+│
+├── 26. Relativistic Limitations
+│   ├── Classical Approximation
+│   ├── Galilean Relativity
+│   ├── Limitations of Newtonian Mechanics
+│   ├── Relativistic Corrections
+│   └── Transition to Special Relativity
+│
+├── 27. Computational Classical Mechanics
+│   ├── Numerical ODE Solvers
+│   ├── Euler Method
+│   ├── Runge–Kutta Methods
+│   ├── Verlet Integration
+│   ├── Molecular Dynamics
+│   ├── N-Body Simulation
+│   ├── Physics Engines
+│   ├── Computational Fluid Dynamics
+│   └── Scientific Visualization
+│
+├── 28. Advanced Classical Mechanics
+│   ├── Rigid Body Dynamics
+│   ├── Euler's Equations
+│   ├── Heavy Top
+│   ├── Integrable Systems
+│   ├── Perturbation Theory
+│   ├── Canonical Perturbation Theory
+│   ├── Adiabatic Invariants
+│   ├── KAM Theory
+│   └── Advanced Dynamical Systems
+│
+└── 29. Applications of Classical Mechanics
+    ├── Mechanical Engineering
+    ├── Aerospace Engineering
+    ├── Robotics
+    ├── Vehicle Dynamics
+    ├── Structural Engineering
+    ├── Biomechanics
+    ├── Astrophysics
+    ├── Molecular Dynamics
+    ├── Computer Graphics
+    ├── Game Physics
+    └── Industrial Simulation
