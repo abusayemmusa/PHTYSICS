@@ -1,1 +1,292 @@
-
+3. ELECTROMAGNETISM
+│
+├── 1. Foundations of Electromagnetism
+│   ├── Introduction to Electromagnetism
+│   ├── Electric Charge
+│   ├── Charge Conservation
+│   ├── Conductors and Insulators
+│   ├── Electric and Magnetic Phenomena
+│   ├── SI Units
+│   ├── Vector Analysis
+│   └── Coordinate Systems
+│
+├── 2. Mathematical Foundations
+│   ├── Algebra
+│   ├── Trigonometry
+│   ├── Differential Calculus
+│   ├── Integral Calculus
+│   ├── Partial Derivatives
+│   ├── Vector Calculus
+│   ├── Differential Equations
+│   ├── Fourier Analysis
+│   └── Complex Numbers
+│
+├── 3. Electrostatics
+│   ├── Static Electric Charges
+│   ├── Coulomb's Law
+│   ├── Principle of Superposition
+│   ├── Electric Field
+│   ├── Electric Field Lines
+│   ├── Electric Dipole
+│   ├── Electric Flux
+│   ├── Gauss's Law
+│   ├── Continuous Charge Distributions
+│   └── Electrostatic Equilibrium
+│
+├── 4. Electric Potential
+│   ├── Electric Potential
+│   ├── Potential Difference
+│   ├── Potential Energy
+│   ├── Equipotential Surfaces
+│   ├── Relation Between E and V
+│   ├── Potential of Point Charges
+│   ├── Potential of Dipoles
+│   ├── Poisson's Equation
+│   └── Laplace's Equation
+│
+├── 5. Boundary Value Problems
+│   ├── Boundary Conditions
+│   ├── Conducting Boundaries
+│   ├── Method of Images
+│   ├── Separation of Variables
+│   ├── Green's Functions
+│   ├── Uniqueness Theorems
+│   ├── Multipole Expansion
+│   └── Numerical Electrostatics
+│
+├── 6. Capacitance and Dielectrics
+│   ├── Capacitance
+│   ├── Parallel-Plate Capacitor
+│   ├── Spherical Capacitor
+│   ├── Cylindrical Capacitor
+│   ├── Capacitors in Series
+│   ├── Capacitors in Parallel
+│   ├── Dielectric Materials
+│   ├── Polarization
+│   ├── Electric Displacement Field
+│   └── Energy Stored in Capacitors
+│
+├── 7. Electric Current
+│   ├── Electric Current
+│   ├── Current Density
+│   ├── Drift Velocity
+│   ├── Resistance
+│   ├── Resistivity
+│   ├── Conductivity
+│   ├── Ohm's Law
+│   ├── Kirchhoff's Laws
+│   ├── Electrical Circuits
+│   └── Current Continuity
+│
+├── 8. Magnetostatics
+│   ├── Magnetic Fields
+│   ├── Magnetic Force
+│   ├── Lorentz Force
+│   ├── Biot–Savart Law
+│   ├── Ampère's Law
+│   ├── Magnetic Field of a Wire
+│   ├── Magnetic Field of a Loop
+│   ├── Magnetic Dipoles
+│   ├── Magnetic Flux
+│   └── Magnetic Vector Potential
+│
+├── 9. Magnetic Materials
+│   ├── Magnetization
+│   ├── Magnetic Susceptibility
+│   ├── Permeability
+│   ├── Diamagnetism
+│   ├── Paramagnetism
+│   ├── Ferromagnetism
+│   ├── Antiferromagnetism
+│   ├── Magnetic Domains
+│   └── Hysteresis
+│
+├── 10. Electromagnetic Induction
+│   ├── Faraday's Law
+│   ├── Lenz's Law
+│   ├── Magnetic Flux Change
+│   ├── Motional EMF
+│   ├── Self-Inductance
+│   ├── Mutual Inductance
+│   ├── Inductors
+│   ├── Eddy Currents
+│   └── Applications of Induction
+│
+├── 11. Maxwell's Equations
+│   ├── Gauss's Law for Electricity
+│   ├── Gauss's Law for Magnetism
+│   ├── Faraday's Law
+│   ├── Ampère–Maxwell Law
+│   ├── Differential Form
+│   ├── Integral Form
+│   ├── Displacement Current
+│   ├── Boundary Conditions
+│   └── Physical Interpretation
+│
+├── 12. Electromagnetic Waves
+│   ├── Wave Equation
+│   ├── Electromagnetic Wave Propagation
+│   ├── Electric and Magnetic Components
+│   ├── Wave Speed
+│   ├── Polarization
+│   ├── Energy Transport
+│   ├── Poynting Vector
+│   ├── Radiation Pressure
+│   └── Plane Waves
+│
+├── 13. Electromagnetic Radiation
+│   ├── Accelerating Charges
+│   ├── Dipole Radiation
+│   ├── Radiation Fields
+│   ├── Retarded Potentials
+│   ├── Liénard–Wiechert Potentials
+│   ├── Radiation Power
+│   ├── Bremsstrahlung
+│   └── Synchrotron Radiation
+│
+├── 14. Electromagnetic Potentials
+│   ├── Scalar Potential
+│   ├── Vector Potential
+│   ├── Gauge Transformations
+│   ├── Coulomb Gauge
+│   ├── Lorenz Gauge
+│   ├── Gauge Invariance
+│   ├── Retarded Potentials
+│   └── Potential Formulation of Maxwell's Equations
+│
+├── 15. Electromagnetic Waves in Matter
+│   ├── Waves in Dielectrics
+│   ├── Waves in Conductors
+│   ├── Complex Permittivity
+│   ├── Dispersion
+│   ├── Absorption
+│   ├── Skin Effect
+│   ├── Group Velocity
+│   ├── Phase Velocity
+│   └── Wave Attenuation
+│
+├── 16. Reflection and Refraction
+│   ├── Boundary Conditions
+│   ├── Reflection
+│   ├── Refraction
+│   ├── Snell's Law
+│   ├── Fresnel Equations
+│   ├── Total Internal Reflection
+│   ├── Brewster's Angle
+│   ├── Transmission Coefficient
+│   └── Optical Interfaces
+│
+├── 17. Waveguides and Cavities
+│   ├── Electromagnetic Waveguides
+│   ├── Rectangular Waveguides
+│   ├── Circular Waveguides
+│   ├── TE Modes
+│   ├── TM Modes
+│   ├── Cutoff Frequency
+│   ├── Resonant Cavities
+│   ├── Transmission Lines
+│   └── Microwave Propagation
+│
+├── 18. Antennas
+│   ├── Antenna Fundamentals
+│   ├── Electric Dipole Antenna
+│   ├── Half-Wave Dipole
+│   ├── Loop Antenna
+│   ├── Antenna Radiation Pattern
+│   ├── Gain and Directivity
+│   ├── Polarization
+│   ├── Antenna Impedance
+│   └── Antenna Arrays
+│
+├── 19. AC Circuit Theory
+│   ├── Alternating Current
+│   ├── RMS Values
+│   ├── Phasors
+│   ├── Complex Impedance
+│   ├── Resistors
+│   ├── Capacitors
+│   ├── Inductors
+│   ├── RLC Circuits
+│   ├── Resonance
+│   └── Power Factor
+│
+├── 20. Electromagnetic Devices
+│   ├── Electric Motors
+│   ├── Generators
+│   ├── Transformers
+│   ├── Relays
+│   ├── Electromagnets
+│   ├── Induction Heating
+│   ├── Magnetic Sensors
+│   └── Electromechanical Systems
+│
+├── 21. Relativistic Electromagnetism
+│   ├── Special Relativity
+│   ├── Four-Vectors
+│   ├── Four-Potential
+│   ├── Electromagnetic Field Tensor
+│   ├── Lorentz Transformations
+│   ├── Electric–Magnetic Field Transformation
+│   ├── Covariant Maxwell Equations
+│   └── Relativistic Charged-Particle Motion
+│
+├── 22. Plasma Physics
+│   ├── Plasma Fundamentals
+│   ├── Debye Shielding
+│   ├── Plasma Frequency
+│   ├── Charged Particle Motion
+│   ├── Magnetohydrodynamics
+│   ├── Plasma Waves
+│   ├── Fusion Plasma
+│   └── Space Plasma
+│
+├── 23. Computational Electromagnetism
+│   ├── Numerical Field Analysis
+│   ├── Finite Difference Method
+│   ├── Finite Element Method
+│   ├── Finite-Difference Time-Domain (FDTD)
+│   ├── Method of Moments
+│   ├── Boundary Element Method
+│   ├── Computational Antenna Design
+│   └── Electromagnetic Simulation
+│
+├── 24. Electromagnetic Compatibility
+│   ├── Electromagnetic Interference
+│   ├── Electromagnetic Compatibility
+│   ├── Shielding
+│   ├── Grounding
+│   ├── Signal Integrity
+│   ├── Crosstalk
+│   ├── Noise Reduction
+│   └── EMC Testing
+│
+├── 25. Applied Electromagnetism
+│   ├── Electrical Engineering
+│   ├── Electronics
+│   ├── Telecommunications
+│   ├── Radar Systems
+│   ├── Wireless Communication
+│   ├── Microwave Engineering
+│   ├── Medical Imaging
+│   ├── Magnetic Resonance Imaging
+│   └── Power Systems
+│
+├── 26. Electromagnetism in Materials
+│   ├── Metamaterials
+│   ├── Photonic Crystals
+│   ├── Superconductivity
+│   ├── Dielectric Materials
+│   ├── Magnetic Materials
+│   ├── Plasmonics
+│   ├── Nanoelectromagnetics
+│   └── Electromagnetic Properties of Nanomaterials
+│
+└── 27. Advanced Electromagnetism
+    ├── Classical Field Theory
+    ├── Green's Function Methods
+    ├── Scattering Theory
+    ├── Multipole Radiation
+    ├── Nonlinear Electromagnetism
+    ├── Quantum Electrodynamics Introduction
+    ├── Computational Field Theory
+    └── Advanced Electromagnetic Research
