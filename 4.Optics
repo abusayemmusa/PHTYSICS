@@ -1,1 +1,357 @@
+4. OPTICS
 
+1. FUNDAMENTALS OF OPTICS
+   1.1 Nature of Light
+   1.2 Wave Theory of Light
+   1.3 Ray Theory of Light
+   1.4 Electromagnetic Nature of Light
+   1.5 Speed of Light
+   1.6 Wavelength and Frequency
+   1.7 Phase and Phase Difference
+   1.8 Wavefront
+   1.9 Huygens' Principle
+   1.10 Fermat's Principle
+
+2. GEOMETRICAL (RAY) OPTICS
+   2.1 Reflection of Light
+   2.2 Laws of Reflection
+   2.3 Plane Mirror
+   2.4 Spherical Mirrors
+   2.5 Concave Mirror
+   2.6 Convex Mirror
+   2.7 Mirror Formula
+   2.8 Magnification
+   2.9 Focal Length
+   2.10 Radius of Curvature
+   2.11 Image Formation
+   2.12 Ray Diagrams
+   2.13 Real and Virtual Images
+
+3. REFRACTION OF LIGHT
+   3.1 Laws of Refraction
+   3.2 Snell's Law
+   3.3 Refractive Index
+   3.4 Absolute Refractive Index
+   3.5 Relative Refractive Index
+   3.6 Optical Density
+   3.7 Apparent Depth
+   3.8 Refraction Through Parallel Slab
+   3.9 Lateral Displacement
+   3.10 Refraction Through Prism
+   3.11 Angle of Deviation
+   3.12 Minimum Deviation
+   3.13 Dispersion of Light
+
+4. TOTAL INTERNAL REFLECTION
+   4.1 Critical Angle
+   4.2 Conditions of TIR
+   4.3 Applications of TIR
+   4.4 Optical Fibre
+   4.5 Acceptance Angle
+   4.6 Acceptance Cone
+   4.7 Numerical Aperture
+   4.8 Step-Index Fibre
+   4.9 Graded-Index Fibre
+   4.10 Single-Mode Fibre
+   4.11 Multimode Fibre
+
+5. LENSES
+   5.1 Convex Lens
+   5.2 Concave Lens
+   5.3 Thin Lens
+   5.4 Lens Formula
+   5.5 Lens Maker's Formula
+   5.6 Focal Length of Lens
+   5.7 Power of Lens
+   5.8 Magnification
+   5.9 Image Formation by Lens
+   5.10 Combination of Lenses
+   5.11 Equivalent Focal Length
+   5.12 Lenses in Contact
+   5.13 Lenses Separated by Distance
+   5.14 Chromatic Aberration
+   5.15 Spherical Aberration
+
+6. OPTICAL INSTRUMENTS
+   6.1 Human Eye
+   6.2 Accommodation of Eye
+   6.3 Near Point and Far Point
+   6.4 Myopia
+   6.5 Hypermetropia
+   6.6 Presbyopia
+   6.7 Astigmatism
+   6.8 Simple Microscope
+   6.9 Compound Microscope
+   6.10 Telescope
+   6.11 Astronomical Telescope
+   6.12 Reflecting Telescope
+   6.13 Resolving Power
+   6.14 Magnifying Power
+
+7. PHYSICAL (WAVE) OPTICS
+   7.1 Wave Nature of Light
+   7.2 Coherence
+   7.3 Temporal Coherence
+   7.4 Spatial Coherence
+   7.5 Superposition Principle
+   7.6 Phase Difference
+   7.7 Optical Path Difference
+   7.8 Interference of Light
+   7.9 Constructive Interference
+   7.10 Destructive Interference
+
+8. INTERFERENCE
+   8.1 Young's Double-Slit Experiment
+   8.2 Fringe Width
+   8.3 Bright and Dark Fringes
+   8.4 Conditions for Interference
+   8.5 Interference in Thin Films
+   8.6 Newton's Rings
+   8.7 Wedge-Shaped Film
+   8.8 Michelson Interferometer
+   8.9 Mach-Zehnder Interferometer
+   8.10 Fabry-Pérot Interferometer
+
+9. DIFFRACTION
+   9.1 Nature of Diffraction
+   9.2 Fresnel Diffraction
+   9.3 Fraunhofer Diffraction
+   9.4 Single-Slit Diffraction
+   9.5 Double-Slit Diffraction
+   9.6 Diffraction Grating
+   9.7 Grating Equation
+   9.8 Principal Maxima
+   9.9 Missing Orders
+   9.10 Resolving Power of Grating
+   9.11 Circular Aperture Diffraction
+   9.12 Rayleigh Criterion
+
+10. POLARIZATION
+    10.1 Unpolarized Light
+    10.2 Plane Polarization
+    10.3 Linear Polarization
+    10.4 Circular Polarization
+    10.5 Elliptical Polarization
+    10.6 Malus' Law
+    10.7 Brewster's Law
+    10.8 Polarizer
+    10.9 Analyzer
+    10.10 Double Refraction
+    10.11 Ordinary Ray
+    10.12 Extraordinary Ray
+    10.13 Nicol Prism
+    10.14 Quarter-Wave Plate
+    10.15 Half-Wave Plate
+    10.16 Optical Activity
+    10.17 Circular Dichroism
+
+11. DISPERSION AND SPECTROSCOPY
+    11.1 Normal Dispersion
+    11.2 Anomalous Dispersion
+    11.3 Prism Spectroscopy
+    11.4 Emission Spectrum
+    11.5 Absorption Spectrum
+    11.6 Atomic Spectra
+    11.7 Molecular Spectra
+    11.8 Infrared Spectroscopy
+    11.9 Raman Spectroscopy
+    11.10 UV-Visible Spectroscopy
+    11.11 Fourier Transform Spectroscopy
+
+12. LASER PHYSICS
+    12.1 Spontaneous Emission
+    12.2 Stimulated Emission
+    12.3 Absorption
+    12.4 Population Inversion
+    12.5 Metastable State
+    12.6 Optical Pumping
+    12.7 Einstein Coefficients
+    12.8 Laser Characteristics
+    12.9 Ruby Laser
+    12.10 He-Ne Laser
+    12.11 Semiconductor Laser
+    12.12 CO2 Laser
+    12.13 Excimer Laser
+    12.14 Fibre Laser
+    12.15 Laser Applications
+
+13. NONLINEAR OPTICS
+    13.1 Nonlinear Optical Materials
+    13.2 Nonlinear Polarization
+    13.3 Second Harmonic Generation
+    13.4 Sum-Frequency Generation
+    13.5 Difference-Frequency Generation
+    13.6 Optical Parametric Oscillation
+    13.7 Four-Wave Mixing
+    13.8 Kerr Effect
+    13.9 Self-Focusing
+    13.10 Two-Photon Absorption
+
+14. QUANTUM OPTICS
+    14.1 Photon Concept
+    14.2 Wave-Particle Duality
+    14.3 Photon Energy
+    14.4 Photon Momentum
+    14.5 Quantization of Light
+    14.6 Quantum States of Light
+    14.7 Single-Photon Sources
+    14.8 Photon Counting
+    14.9 Quantum Entanglement
+    14.10 Quantum Interference
+    14.11 Quantum Teleportation
+    14.12 Quantum Cryptography
+    14.13 Quantum Information
+
+15. MODERN OPTICS
+    15.1 Fourier Optics
+    15.2 Spatial Frequency
+    15.3 Optical Transfer Function
+    15.4 Modulation Transfer Function
+    15.5 Wavefront Optics
+    15.6 Adaptive Optics
+    15.7 Computational Optics
+    15.8 Digital Holography
+    15.9 Optical Computing
+    15.10 Integrated Photonics
+
+16. HOLOGRAPHY
+    16.1 Principle of Holography
+    16.2 Recording of Hologram
+    16.3 Reconstruction of Hologram
+    16.4 Types of Holograms
+    16.5 Digital Holography
+    16.6 Holographic Interferometry
+    16.7 Applications of Holography
+
+17. FIBRE OPTICS AND PHOTONICS
+    17.1 Optical Communication
+    17.2 Light Propagation in Fibre
+    17.3 Fibre Losses
+    17.4 Dispersion in Fibre
+    17.5 Optical Transmitters
+    17.6 Optical Receivers
+    17.7 Photodetectors
+    17.8 Wavelength Division Multiplexing
+    17.9 Optical Amplifiers
+    17.10 Photonic Integrated Circuits
+    17.11 Silicon Photonics
+
+18. OPTOELECTRONICS
+    18.1 Photodiodes
+    18.2 PIN Photodiode
+    18.3 Avalanche Photodiode
+    18.4 LEDs
+    18.5 Laser Diodes
+    18.6 Solar Cells
+    18.7 Phototransistors
+    18.8 Optical Sensors
+    18.9 Image Sensors
+    18.10 CCD
+    18.11 CMOS Sensors
+
+19. IMAGING OPTICS
+    19.1 Image Formation
+    19.2 Image Resolution
+    19.3 Optical Aberrations
+    19.4 Geometrical Image Quality
+    19.5 Camera Optics
+    19.6 Digital Cameras
+    19.7 Medical Imaging
+    19.8 X-ray Optics
+    19.9 Endoscopy
+    19.10 Optical Coherence Tomography
+
+20. COMPUTER VISION OPTICS
+    20.1 Camera Models
+    20.2 Pinhole Camera Model
+    20.3 Perspective Projection
+    20.4 Camera Calibration
+    20.5 Lens Distortion
+    20.6 Stereo Vision
+    20.7 Depth Estimation
+    20.8 Structured Light
+    20.9 Time-of-Flight Cameras
+    20.10 Event Cameras
+    20.11 Optical Flow
+    20.12 3D Reconstruction
+
+21. OPTICS IN ROBOTICS
+    21.1 Robot Vision
+    21.2 Vision-Based Navigation
+    21.3 Visual SLAM
+    21.4 LiDAR Optics
+    21.5 Infrared Sensors
+    21.6 Depth Cameras
+    21.7 Object Detection Cameras
+    21.8 Optical Tracking
+    21.9 Autonomous Navigation
+    21.10 Photonic Sensors
+
+22. OPTICAL SENSORS
+    22.1 Light Sensors
+    22.2 Infrared Sensors
+    22.3 UV Sensors
+    22.4 Fibre-Optic Sensors
+    22.5 Interferometric Sensors
+    22.6 Polarization Sensors
+    22.7 Biomedical Optical Sensors
+    22.8 Environmental Optical Sensors
+    22.9 Chemical Optical Sensors
+
+23. BIOMEDICAL OPTICS
+    23.1 Biophotonics
+    23.2 Optical Imaging
+    23.3 Fluorescence Imaging
+    23.4 Confocal Microscopy
+    23.5 Optical Coherence Tomography
+    23.6 Photodynamic Therapy
+    23.7 Laser Surgery
+    23.8 Spectroscopic Diagnostics
+    23.9 Biomedical Sensors
+
+24. ATMOSPHERIC AND ASTRONOMICAL OPTICS
+    24.1 Atmospheric Refraction
+    24.2 Scattering of Light
+    24.3 Rayleigh Scattering
+    24.4 Mie Scattering
+    24.5 Mirage
+    24.6 Rainbow Formation
+    24.7 Twinkling of Stars
+    24.8 Atmospheric Absorption
+    24.9 Astronomical Imaging
+    24.10 Adaptive Astronomy Optics
+
+25. METAMATERIALS AND ADVANCED OPTICS
+    25.1 Metamaterials
+    25.2 Negative Refractive Index
+    25.3 Metasurfaces
+    25.4 Plasmonics
+    25.5 Nano-Optics
+    25.6 Near-Field Optics
+    25.7 Superlenses
+    25.8 Optical Nanostructures
+    25.9 Topological Photonics
+
+26. OPTICAL COMPUTING AND AI
+    26.1 Optical Neural Networks
+    26.2 Photonic Computing
+    26.3 Neuromorphic Photonics
+    26.4 Optical Matrix Multiplication
+    26.5 Diffractive Neural Networks
+    26.6 Photonic Machine Learning
+    26.7 Optical Signal Processing
+    26.8 Quantum Machine Vision
+
+27. APPLICATIONS OF OPTICS
+    27.1 Telecommunications
+    27.2 Cameras and Smartphones
+    27.3 Medical Instruments
+    27.4 Microscopes
+    27.5 Telescopes
+    27.6 Laser Manufacturing
+    27.7 Barcode and QR Scanners
+    27.8 Optical Storage
+    27.9 Security Systems
+    27.10 Autonomous Vehicles
+    27.11 Virtual Reality
+    27.12 Augmented Reality
