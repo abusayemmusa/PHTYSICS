@@ -1,1 +1,392 @@
+7. PARTICLE PHYSICS
 
+1. Foundations of Particle Physics
+   1.1 Elementary Particles
+   1.2 Fundamental Interactions
+   1.3 Particle Classification
+   1.4 Conservation Laws
+   1.5 Symmetries
+   1.6 Natural Units
+   1.7 Relativistic Energy and Momentum
+
+2. Relativistic Particle Physics
+   2.1 Special Relativity
+   2.2 Four-Vectors
+   2.3 Four-Momentum
+   2.4 Invariant Mass
+   2.5 Energy-Momentum Relation
+   2.6 Relativistic Kinematics
+   2.7 Lorentz Transformations
+
+3. Fundamental Particles
+   3.1 Quarks
+   3.2 Leptons
+   3.3 Gauge Bosons
+   3.4 Higgs Boson
+   3.5 Fermions
+   3.6 Bosons
+   3.7 Matter Particles
+   3.8 Antiparticles
+
+4. Quarks
+   4.1 Up Quark
+   4.2 Down Quark
+   4.3 Strange Quark
+   4.4 Charm Quark
+   4.5 Bottom Quark
+   4.6 Top Quark
+   4.7 Quark Properties
+   4.8 Quark Flavor
+   4.9 Quark Confinement
+
+5. Leptons
+   5.1 Electron
+   5.2 Muon
+   5.3 Tau
+   5.4 Electron Neutrino
+   5.5 Muon Neutrino
+   5.6 Tau Neutrino
+   5.7 Lepton Families
+   5.8 Neutrino Properties
+
+6. Antimatter
+   6.1 Antiparticles
+   6.2 Antiprotons
+   6.3 Positrons
+   6.4 Antineutrinos
+   6.5 Matter-Antimatter Annihilation
+   6.6 Antimatter Production
+   6.7 Antimatter Applications
+
+7. Fundamental Forces
+   7.1 Electromagnetic Interaction
+   7.2 Strong Interaction
+   7.3 Weak Interaction
+   7.4 Gravity
+   7.5 Force-Carrying Particles
+   7.6 Coupling Constants
+   7.7 Interaction Strength
+
+8. Quantum Electrodynamics (QED)
+   8.1 Photons
+   8.2 Electromagnetic Interaction
+   8.3 Feynman Diagrams
+   8.4 Virtual Particles
+   8.5 Electron-Photon Interaction
+   8.6 Scattering Processes
+   8.7 QED Calculations
+
+9. Quantum Chromodynamics (QCD)
+   9.1 Strong Interaction
+   9.2 Gluons
+   9.3 Color Charge
+   9.4 Quarks and Gluons
+   9.5 Confinement
+   9.6 Asymptotic Freedom
+   9.7 Hadronization
+   9.8 QCD Calculations
+
+10. Weak Interaction
+    10.1 Weak Force
+    10.2 W Bosons
+    10.3 Z Boson
+    10.4 Beta Decay
+    10.5 Weak Neutral Current
+    10.6 Weak Charged Current
+    10.7 Parity Violation
+    10.8 CP Violation
+
+11. Hadrons
+    11.1 Hadrons
+    11.2 Baryons
+    11.3 Mesons
+    11.4 Protons
+    11.5 Neutrons
+    11.6 Pions
+    11.7 Kaons
+    11.8 Resonances
+    11.9 Exotic Hadrons
+
+12. Standard Model of Particle Physics
+    12.1 Standard Model Overview
+    12.2 Quark Sector
+    12.3 Lepton Sector
+    12.4 Gauge Bosons
+    12.5 Higgs Boson
+    12.6 Electroweak Theory
+    12.7 QCD
+    12.8 Standard Model Limitations
+
+13. Higgs Physics
+    13.1 Higgs Field
+    13.2 Higgs Mechanism
+    13.3 Spontaneous Symmetry Breaking
+    13.4 Higgs Boson
+    13.5 Higgs Mass
+    13.6 Higgs Couplings
+    13.7 Higgs Decay
+    13.8 Higgs Searches
+
+14. Electroweak Theory
+    14.1 Electromagnetism and Weak Force
+    14.2 Electroweak Unification
+    14.3 SU(2) × U(1)
+    14.4 Gauge Symmetry
+    14.5 Spontaneous Symmetry Breaking
+    14.6 W and Z Bosons
+    14.7 Weinberg Angle
+
+15. Particle Interactions
+    15.1 Scattering
+    15.2 Decay
+    15.3 Production
+    15.4 Annihilation
+    15.5 Cross Sections
+    15.6 Decay Rates
+    15.7 Branching Ratios
+    15.8 Lifetimes
+
+16. Feynman Diagrams
+    16.1 Diagram Rules
+    16.2 Vertices
+    16.3 Propagators
+    16.4 Tree-Level Diagrams
+    16.5 Loop Diagrams
+    16.6 Scattering Diagrams
+    16.7 Decay Diagrams
+    16.8 Higher-Order Corrections
+
+17. Particle Detectors
+    17.1 Detector Fundamentals
+    17.2 Tracking Detectors
+    17.3 Silicon Detectors
+    17.4 Calorimeters
+    17.5 Electromagnetic Calorimeters
+    17.6 Hadronic Calorimeters
+    17.7 Muon Detectors
+    17.8 Cherenkov Detectors
+    17.9 Time-of-Flight Detectors
+    17.10 Particle Identification
+
+18. Particle Accelerators
+    18.1 Linear Accelerators
+    18.2 Cyclotrons
+    18.3 Synchrotrons
+    18.4 Storage Rings
+    18.5 Collider Physics
+    18.6 Proton Colliders
+    18.7 Electron-Positron Colliders
+    18.8 Beam Physics
+    18.9 Accelerator Technology
+
+19. Collider Physics
+    19.1 Collision Events
+    19.2 Event Reconstruction
+    19.3 Jets
+    19.4 Missing Transverse Energy
+    19.5 Trigger Systems
+    19.6 Event Selection
+    19.7 Background Processes
+    19.8 Signal Detection
+
+20. Neutrino Physics
+    20.1 Neutrino Properties
+    20.2 Neutrino Oscillation
+    20.3 Neutrino Mixing
+    20.4 Neutrino Mass
+    20.5 PMNS Matrix
+    20.6 Solar Neutrinos
+    20.7 Atmospheric Neutrinos
+    20.8 Sterile Neutrinos
+
+21. Flavor Physics
+    21.1 Quark Flavor
+    21.2 CKM Matrix
+    21.3 CP Violation
+    21.4 Flavor-Changing Processes
+    21.5 Rare Decays
+    21.6 B Physics
+    21.7 D Physics
+    21.8 Kaon Physics
+
+22. Symmetry and Conservation Laws
+    22.1 Energy Conservation
+    22.2 Momentum Conservation
+    22.3 Angular Momentum
+    22.4 Charge Conservation
+    22.5 Baryon Number
+    22.6 Lepton Number
+    22.7 Parity
+    22.8 Charge Conjugation
+    22.9 Time Reversal
+    22.10 CPT Symmetry
+
+23. Gauge Theory
+    23.1 Gauge Symmetry
+    23.2 Abelian Gauge Theory
+    23.3 Non-Abelian Gauge Theory
+    23.4 Yang-Mills Theory
+    23.5 Gauge Fields
+    23.6 Gauge Bosons
+    23.7 Gauge Invariance
+
+24. Quantum Field Theory
+    24.1 Fields and Particles
+    24.2 Lagrangian Formulation
+    24.3 Hamiltonian Formulation
+    24.4 Quantization
+    24.5 Feynman Rules
+    24.6 Propagators
+    24.7 Renormalization
+    24.8 Quantum Corrections
+    24.9 Effective Field Theory
+
+25. Beyond the Standard Model
+    25.1 Supersymmetry
+    25.2 Grand Unified Theories
+    25.3 String Theory
+    25.4 Extra Dimensions
+    25.5 Technicolor
+    25.6 Composite Particles
+    25.7 New Gauge Bosons
+    25.8 Heavy Neutral Leptons
+
+26. Dark Matter
+    26.1 Dark Matter Evidence
+    26.2 WIMPs
+    26.3 Axions
+    26.4 Dark Photons
+    26.5 Sterile Neutrinos
+    26.6 Direct Detection
+    26.7 Indirect Detection
+    26.8 Collider Searches
+
+27. Dark Energy and Cosmological Particles
+    27.1 Dark Energy
+    27.2 Vacuum Energy
+    27.3 Cosmological Constant
+    27.4 Relic Particles
+    27.5 Early-Universe Particles
+    27.6 Cosmic Backgrounds
+
+28. Particle Astrophysics
+    28.1 Cosmic Rays
+    28.2 High-Energy Astrophysics
+    28.3 Neutrino Astronomy
+    28.4 Gamma-Ray Astronomy
+    28.5 Supernova Neutrinos
+    28.6 Black-Hole Particle Physics
+    28.7 Compact Objects
+
+29. Early-Universe Particle Physics
+    29.1 Big Bang
+    29.2 Inflation
+    29.3 Baryogenesis
+    29.4 Leptogenesis
+    29.5 Quark-Gluon Plasma
+    29.6 Thermal History
+    29.7 Phase Transitions
+
+30. Heavy-Ion Physics
+    30.1 Heavy-Ion Collisions
+    30.2 Quark-Gluon Plasma
+    30.3 Collective Behavior
+    30.4 Jet Quenching
+    30.5 Nuclear Matter
+    30.6 Relativistic Heavy-Ion Physics
+
+31. Precision Particle Physics
+    31.1 Precision Measurements
+    31.2 Anomalous Magnetic Moment
+    31.3 Electroweak Precision Tests
+    31.4 Rare Processes
+    31.5 Standard Model Tests
+    31.6 New-Physics Searches
+
+32. Experimental Particle Physics
+    32.1 Experimental Design
+    32.2 Detector Physics
+    32.3 Accelerator Physics
+    32.4 Data Acquisition
+    32.5 Triggering
+    32.6 Event Reconstruction
+    32.7 Statistical Analysis
+    32.8 Experimental Uncertainties
+
+33. Computational Particle Physics
+    33.1 Numerical Methods
+    33.2 Monte Carlo Methods
+    33.3 Lattice QCD
+    33.4 Event Generators
+    33.5 Detector Simulation
+    33.6 High-Performance Computing
+    33.7 Scientific Programming
+    33.8 Data Analysis
+
+34. AI and Machine Learning in Particle Physics
+    34.1 Machine Learning
+    34.2 Deep Learning
+    34.3 Neural Networks
+    34.4 CNN for Detector Data
+    34.5 Graph Neural Networks
+    34.6 Particle Tracking
+    34.7 Event Classification
+    34.8 Anomaly Detection
+    34.9 Physics-Informed ML
+    34.10 Generative Models
+
+35. Particle Physics Data Science
+    35.1 Big Data
+    35.2 Event Data
+    35.3 Statistical Inference
+    35.4 Bayesian Methods
+    35.5 Hypothesis Testing
+    35.6 Parameter Estimation
+    35.7 Uncertainty Quantification
+    35.8 Data Visualization
+
+36. Quantum Computing and Particle Physics
+    36.1 Quantum Simulation
+    36.2 Quantum Algorithms
+    36.3 Quantum Field Simulation
+    36.4 Lattice Gauge Theory
+    36.5 Quantum Machine Learning
+    36.6 Quantum Optimization
+
+37. Particle Physics and Nuclear Physics
+    37.1 Nuclear Structure
+    37.2 Quarks Inside Hadrons
+    37.3 Nuclear Forces
+    37.4 QCD and Nuclear Matter
+    37.5 Heavy-Ion Collisions
+    37.6 Nuclear-Particle Physics Interface
+
+38. Particle Physics Applications
+    38.1 Medical Imaging
+    38.2 Radiation Therapy
+    38.3 PET
+    38.4 Particle-Beam Therapy
+    38.5 Radiation Detection
+    38.6 Security Scanning
+    38.7 Materials Science
+    38.8 Semiconductor Technology
+
+39. Advanced Particle Physics
+    39.1 Non-Perturbative QCD
+    39.2 Effective Field Theory
+    39.3 Amplitudes
+    39.4 Scattering Amplitudes
+    39.5 Quantum Anomalies
+    39.6 Topological Effects
+    39.7 Non-Standard Interactions
+    39.8 Precision QFT
+
+40. Future Particle Physics
+    40.1 Future Colliders
+    40.2 High-Energy Accelerators
+    40.3 New Detector Technologies
+    40.4 Dark Matter Searches
+    40.5 Neutrino Experiments
+    40.6 Beyond-Standard-Model Searches
+    40.7 AI-Driven Particle Discovery
+    40.8 Quantum Computing for HEP
