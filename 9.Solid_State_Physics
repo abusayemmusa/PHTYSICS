@@ -1,1 +1,392 @@
+9. SOLID-STATE PHYSICS
 
+1. Foundations of Solid-State Physics
+   1.1 Introduction to Solid-State Physics
+   1.2 Classification of Solids
+   1.3 Crystalline Solids
+   1.4 Amorphous Solids
+   1.5 Polycrystalline Materials
+   1.6 Atomic Structure of Solids
+   1.7 Interatomic Forces
+   1.8 Cohesive Energy
+
+2. Crystal Structure
+   2.1 Crystal Lattice
+   2.2 Basis
+   2.3 Unit Cell
+   2.4 Primitive Cell
+   2.5 Crystal Systems
+   2.6 Bravais Lattices
+   2.7 Lattice Parameters
+   2.8 Coordination Number
+   2.9 Packing Fraction
+
+3. Crystal Geometry
+   3.1 Miller Indices
+   3.2 Crystal Planes
+   3.3 Crystal Directions
+   3.4 Interplanar Spacing
+   3.5 Reciprocal Lattice
+   3.6 Wigner-Seitz Cell
+   3.7 Brillouin Zones
+
+4. Crystal Binding
+   4.1 Ionic Bonding
+   4.2 Covalent Bonding
+   4.3 Metallic Bonding
+   4.4 van der Waals Bonding
+   4.5 Hydrogen Bonding
+   4.6 Mixed Bonding
+   4.7 Binding Energy
+
+5. Crystal Structure Determination
+   5.1 X-Ray Diffraction
+   5.2 Bragg's Law
+   5.3 Laue Method
+   5.4 Powder Diffraction
+   5.5 Electron Diffraction
+   5.6 Neutron Diffraction
+   5.7 X-Ray Crystallography
+
+6. Reciprocal Space
+   6.1 Reciprocal Lattice
+   6.2 Reciprocal Vectors
+   6.3 Bragg Planes
+   6.4 Brillouin Zones
+   6.5 Reciprocal-Space Mapping
+   6.6 Diffraction in Reciprocal Space
+
+7. Lattice Vibrations
+   7.1 Crystal Vibrations
+   7.2 Normal Modes
+   7.3 Phonons
+   7.4 Acoustic Modes
+   7.5 Optical Modes
+   7.6 Phonon Dispersion
+   7.7 Phonon Density of States
+
+8. Thermal Properties
+   8.1 Specific Heat
+   8.2 Heat Capacity
+   8.3 Dulong-Petit Law
+   8.4 Einstein Model
+   8.5 Debye Model
+   8.6 Thermal Expansion
+   8.7 Thermal Conductivity
+   8.8 Phonon Scattering
+
+9. Free Electron Theory
+   9.1 Classical Free Electron Model
+   9.2 Drude Model
+   9.3 Sommerfeld Model
+   9.4 Fermi Energy
+   9.5 Fermi Level
+   9.6 Fermi-Dirac Distribution
+   9.7 Density of States
+   9.8 Electron Gas
+
+10. Energy Bands
+    10.1 Energy Levels
+    10.2 Energy Bands
+    10.3 Band Formation
+    10.4 Valence Band
+    10.5 Conduction Band
+    10.6 Band Gap
+    10.7 Fermi Level
+    10.8 Direct Band Gap
+    10.9 Indirect Band Gap
+
+11. Band Theory of Solids
+    11.1 Nearly Free Electron Model
+    11.2 Kronig-Penney Model
+    11.3 Tight-Binding Model
+    11.4 Bloch Theorem
+    11.5 Band Structure
+    11.6 Effective Mass
+    11.7 Holes
+    11.8 Density of States
+
+12. Metals
+    12.1 Metallic Conductivity
+    12.2 Electrical Resistivity
+    12.3 Electron Scattering
+    12.4 Fermi Surface
+    12.5 Hall Effect
+    12.6 Magnetoresistance
+    12.7 Thermoelectric Effects
+    12.8 Metal-Insulator Transition
+
+13. Semiconductors
+    13.1 Intrinsic Semiconductors
+    13.2 Extrinsic Semiconductors
+    13.3 n-Type Semiconductors
+    13.4 p-Type Semiconductors
+    13.5 Donor Levels
+    13.6 Acceptor Levels
+    13.7 Carrier Concentration
+    13.8 Carrier Mobility
+    13.9 Semiconductor Conductivity
+
+14. Semiconductor Physics
+    14.1 Electrons and Holes
+    14.2 Drift Current
+    14.3 Diffusion Current
+    14.4 Carrier Recombination
+    14.5 Carrier Generation
+    14.6 Minority Carriers
+    14.7 Semiconductor Statistics
+    14.8 Semiconductor Transport
+
+15. p-n Junction
+    15.1 p-n Junction Formation
+    15.2 Depletion Region
+    15.3 Built-in Potential
+    15.4 Junction Current
+    15.5 Forward Bias
+    15.6 Reverse Bias
+    15.7 Breakdown
+    15.8 Junction Capacitance
+
+16. Semiconductor Devices
+    16.1 Diodes
+    16.2 Zener Diodes
+    16.3 LEDs
+    16.4 Photodiodes
+    16.5 Solar Cells
+    16.6 Bipolar Junction Transistors
+    16.7 Field-Effect Transistors
+    16.8 MOSFETs
+    16.9 IGBTs
+
+17. Dielectric Properties
+    17.1 Dielectrics
+    17.2 Polarization
+    17.3 Electronic Polarization
+    17.4 Ionic Polarization
+    17.5 Orientation Polarization
+    17.6 Space-Charge Polarization
+    17.7 Dielectric Constant
+    17.8 Dielectric Loss
+
+18. Ferroelectricity
+    18.1 Ferroelectric Materials
+    18.2 Spontaneous Polarization
+    18.3 Hysteresis
+    18.4 Ferroelectric Domains
+    18.5 Curie Temperature
+    18.6 Piezoelectricity
+    18.7 Pyroelectricity
+
+19. Magnetic Properties
+    19.1 Magnetic Moments
+    19.2 Magnetization
+    19.3 Magnetic Susceptibility
+    19.4 Diamagnetism
+    19.5 Paramagnetism
+    19.6 Ferromagnetism
+    19.7 Antiferromagnetism
+    19.8 Ferrimagnetism
+
+20. Magnetism in Solids
+    20.1 Exchange Interaction
+    20.2 Magnetic Domains
+    20.3 Domain Walls
+    20.4 Curie-Weiss Law
+    20.5 Heisenberg Model
+    20.6 Ising Model
+    20.7 Magnetic Phase Transitions
+    20.8 Spin Waves
+
+21. Superconductivity
+    21.1 Superconducting State
+    21.2 Zero Resistance
+    21.3 Meissner Effect
+    21.4 Critical Temperature
+    21.5 Critical Magnetic Field
+    21.6 Critical Current
+    21.7 Type-I Superconductors
+    21.8 Type-II Superconductors
+    21.9 Flux Quantization
+    21.10 Josephson Effect
+
+22. Theory of Superconductivity
+    22.1 London Theory
+    22.2 Ginzburg-Landau Theory
+    22.3 BCS Theory
+    22.4 Cooper Pairs
+    22.5 Energy Gap
+    22.6 High-Tc Superconductors
+    22.7 Unconventional Superconductivity
+
+23. Optical Properties of Solids
+    23.1 Interaction of Light with Matter
+    23.2 Absorption
+    23.3 Reflection
+    23.4 Transmission
+    23.5 Refraction
+    23.6 Optical Conductivity
+    23.7 Photoluminescence
+    23.8 Excitons
+
+24. Semiconductor Optoelectronics
+    24.1 Light-Emitting Diodes
+    24.2 Laser Diodes
+    24.3 Photodetectors
+    24.4 Photovoltaic Devices
+    24.5 Optical Modulators
+    24.6 Semiconductor Lasers
+    24.7 Optoelectronic Materials
+
+25. Defects in Solids
+    25.1 Point Defects
+    25.2 Vacancy Defects
+    25.3 Interstitial Defects
+    25.4 Substitutional Defects
+    25.5 Schottky Defects
+    25.6 Frenkel Defects
+    25.7 Line Defects
+    25.8 Dislocations
+    25.9 Planar Defects
+    25.10 Grain Boundaries
+
+26. Diffusion in Solids
+    26.1 Atomic Diffusion
+    26.2 Vacancy Diffusion
+    26.3 Interstitial Diffusion
+    26.4 Fick's Laws
+    26.5 Diffusion Coefficient
+    26.6 Arrhenius Behavior
+    26.7 Solid-State Diffusion
+
+27. Mechanical Properties
+    27.1 Elasticity
+    27.2 Stress
+    27.3 Strain
+    27.4 Young's Modulus
+    27.5 Shear Modulus
+    27.6 Bulk Modulus
+    27.7 Plastic Deformation
+    27.8 Hardness
+    27.9 Fracture
+    27.10 Fatigue
+
+28. Nanostructured Solids
+    28.1 Nanomaterials
+    28.2 Quantum Confinement
+    28.3 Quantum Wells
+    28.4 Quantum Wires
+    28.5 Quantum Dots
+    28.6 Nanoparticles
+    28.7 Nanocrystals
+    28.8 2D Materials
+
+29. Two-Dimensional Materials
+    29.1 Graphene
+    29.2 Graphene Electronics
+    29.3 Transition-Metal Dichalcogenides
+    29.4 Boron Nitride
+    29.5 MXenes
+    29.6 Van der Waals Materials
+    29.7 Moiré Materials
+
+30. Topological Materials
+    30.1 Topological Insulators
+    30.2 Topological Semimetals
+    30.3 Weyl Semimetals
+    30.4 Dirac Semimetals
+    30.5 Chern Insulators
+    30.6 Topological Superconductors
+    30.7 Quantum Hall Systems
+
+31. Quantum Hall Physics
+    31.1 Classical Hall Effect
+    31.2 Quantum Hall Effect
+    31.3 Integer Quantum Hall Effect
+    31.4 Fractional Quantum Hall Effect
+    31.5 Edge States
+    31.6 Landau Levels
+
+32. Strongly Correlated Materials
+    32.1 Electron-Electron Interactions
+    32.2 Mott Insulators
+    32.3 Heavy Fermion Systems
+    32.4 Kondo Effect
+    32.5 Hubbard Model
+    32.6 Correlated Electrons
+
+33. Spintronics
+    33.1 Electron Spin
+    33.2 Spin Transport
+    33.3 Spin Injection
+    33.4 Giant Magnetoresistance
+    33.5 Tunneling Magnetoresistance
+    33.6 Spin-Valves
+    33.7 Spin-Orbit Effects
+    33.8 Spin-Based Devices
+
+34. Semiconductor Nanodevices
+    34.1 Quantum-Well Devices
+    34.2 Quantum-Wire Devices
+    34.3 Quantum-Dot Devices
+    34.4 Single-Electron Transistors
+    34.5 Tunnel Devices
+    34.6 Nanoscale MOSFETs
+    34.7 Molecular Electronics
+
+35. Electronic Transport
+    35.1 Electrical Conductivity
+    35.2 Thermal Conductivity
+    35.3 Mobility
+    35.4 Scattering
+    35.5 Mean Free Path
+    35.6 Ballistic Transport
+    35.7 Diffusive Transport
+    35.8 Quantum Transport
+
+36. Mesoscopic Physics
+    36.1 Mesoscopic Systems
+    36.2 Quantum Transport
+    36.3 Quantum Point Contacts
+    36.4 Coulomb Blockade
+    36.5 Quantum Dots
+    36.6 Single-Electron Transport
+    36.7 Mesoscopic Conductance
+
+37. Computational Solid-State Physics
+    37.1 Density Functional Theory
+    37.2 Molecular Dynamics
+    37.3 Monte Carlo Methods
+    37.4 Tight-Binding Computation
+    37.5 Band-Structure Calculation
+    37.6 Phonon Simulation
+    37.7 Electronic-Structure Calculation
+    37.8 High-Performance Computing
+
+38. Materials Physics
+    38.1 Semiconductor Materials
+    38.2 Magnetic Materials
+    38.3 Superconducting Materials
+    38.4 Optical Materials
+    38.5 Electronic Materials
+    38.6 Energy Materials
+    38.7 Smart Materials
+    38.8 Functional Materials
+
+39. Energy Materials
+    39.1 Solar-Cell Materials
+    39.2 Battery Materials
+    39.3 Fuel-Cell Materials
+    39.4 Thermoelectric Materials
+    39.5 Hydrogen Materials
+    39.6 Energy-Storage Materials
+    39.7 Solid-State Batteries
+
+40. AI and Modern Solid-State Physics
+    40.1 Machine Learning for Materials
+    40.2 AI Materials Discovery
+    40.3 Materials Property Prediction
+    40.4 Neural Networks for Materials
+    40.5 Graph Neural Networks
+    40.6 Physics-Informed ML
+    40.7 Automated Materials Discovery
+    40.8 AI-Based Crystal Structure Prediction
