@@ -1,1 +1,459 @@
+6. NUCLEAR PHYSICS
 
+1. FOUNDATIONS OF NUCLEAR PHYSICS
+   1.1 Introduction to Nuclear Physics
+   1.2 History of Nuclear Physics
+   1.3 Discovery of the Nucleus
+   1.4 Atomic Structure
+   1.5 Nuclear Structure
+   1.6 Nuclear Size
+   1.7 Nuclear Shape
+   1.8 Nuclear Mass
+   1.9 Nuclear Charge
+   1.10 Nuclear Density
+   1.11 Nuclear Radius
+   1.12 Nuclear Constituents
+
+2. NUCLEAR CONSTITUENTS
+   2.1 Protons
+   2.2 Neutrons
+   2.3 Nucleons
+   2.4 Proton-Neutron Interaction
+   2.5 Nuclear Forces
+   2.6 Strong Nuclear Force
+   2.7 Charge Independence
+   2.8 Nuclear Binding
+   2.9 Isospin
+   2.10 Nuclear Potential
+
+3. NUCLEAR PROPERTIES
+   3.1 Atomic Number
+   3.2 Mass Number
+   3.3 Isotopes
+   3.4 Isobars
+   3.5 Isotones
+   3.6 Nuclear Spin
+   3.7 Nuclear Magnetic Moment
+   3.8 Nuclear Electric Quadrupole Moment
+   3.9 Nuclear Parity
+   3.10 Nuclear Stability
+
+4. NUCLEAR SIZE AND MASS
+   4.1 Nuclear Radius
+   4.2 Nuclear Volume
+   4.3 Nuclear Density
+   4.4 Atomic Mass Unit
+   4.5 Nuclear Mass
+   4.6 Mass Defect
+   4.7 Binding Energy
+   4.8 Binding Energy per Nucleon
+   4.9 Mass-Energy Equivalence
+
+5. NUCLEAR MODELS
+   5.1 Liquid Drop Model
+   5.2 Semi-Empirical Mass Formula
+   5.3 Shell Model
+   5.4 Independent Particle Model
+   5.5 Collective Model
+   5.6 Optical Model
+   5.7 Cluster Model
+   5.8 Fermi Gas Model
+   5.9 Nuclear Deformation
+   5.10 Model Limitations
+
+6. NUCLEAR SHELL MODEL
+   6.1 Nuclear Energy Levels
+   6.2 Magic Numbers
+   6.3 Shell Closures
+   6.4 Spin-Orbit Coupling
+   6.5 Nuclear Ground States
+   6.6 Excited Nuclear States
+   6.7 Nuclear Configuration
+   6.8 Shell-Model Calculations
+
+7. NUCLEAR FORCE
+   7.1 Characteristics of Nuclear Force
+   7.2 Short-Range Nature
+   7.3 Strong Interaction
+   7.4 Saturation Property
+   7.5 Charge Independence
+   7.6 Tensor Force
+   7.7 Yukawa Potential
+   7.8 Meson Exchange
+   7.9 Nuclear Potential Models
+   7.10 Effective Nuclear Interactions
+
+8. RADIOACTIVITY
+   8.1 Natural Radioactivity
+   8.2 Artificial Radioactivity
+   8.3 Radioactive Decay
+   8.4 Decay Constant
+   8.5 Half-Life
+   8.6 Mean Life
+   8.7 Activity
+   8.8 Radioactive Decay Law
+   8.9 Decay Chains
+   8.10 Secular Equilibrium
+   8.11 Transient Equilibrium
+
+9. ALPHA DECAY
+   9.1 Alpha Particles
+   9.2 Alpha Decay Equation
+   9.3 Alpha Decay Energy
+   9.4 Q-Value
+   9.5 Alpha Spectrum
+   9.6 Quantum Tunneling
+   9.7 Gamow Theory
+   9.8 Geiger-Nuttall Law
+
+10. BETA DECAY
+    10.1 Beta Minus Decay
+    10.2 Beta Plus Decay
+    10.3 Electron Capture
+    10.4 Neutrinos
+    10.5 Antineutrinos
+    10.6 Beta Spectrum
+    10.7 Fermi Theory
+    10.8 Weak Interaction
+    10.9 Parity Violation
+
+11. GAMMA DECAY
+    11.1 Gamma Radiation
+    11.2 Nuclear Energy Levels
+    11.3 Gamma Transitions
+    11.4 Electromagnetic Multipole Radiation
+    11.5 Selection Rules
+    11.6 Gamma Spectroscopy
+    11.7 Internal Conversion
+    11.8 Nuclear Isomers
+
+12. NUCLEAR REACTIONS
+    12.1 Nuclear Reaction Fundamentals
+    12.2 Conservation Laws
+    12.3 Reaction Q-Value
+    12.4 Threshold Energy
+    12.5 Cross Section
+    12.6 Reaction Rate
+    12.7 Elastic Scattering
+    12.8 Inelastic Scattering
+    12.9 Direct Reactions
+    12.10 Compound-Nucleus Reactions
+
+13. NUCLEAR FISSION
+    13.1 Nuclear Fission
+    13.2 Fission Mechanism
+    13.3 Fission Energy
+    13.4 Fission Fragments
+    13.5 Prompt Neutrons
+    13.6 Delayed Neutrons
+    13.7 Chain Reaction
+    13.8 Criticality
+    13.9 Critical Mass
+    13.10 Fission Products
+
+14. NUCLEAR FUSION
+    14.1 Nuclear Fusion
+    14.2 Fusion Energy
+    14.3 Coulomb Barrier
+    14.4 Quantum Tunneling
+    14.5 Deuterium-Tritium Fusion
+    14.6 Proton-Proton Fusion
+    14.7 Fusion Plasma
+    14.8 Magnetic Confinement
+    14.9 Inertial Confinement
+    14.10 Fusion Reactors
+
+15. NUCLEAR CHAIN REACTIONS
+    15.1 Neutron Multiplication
+    15.2 Reproduction Factor
+    15.3 Subcritical System
+    15.4 Critical System
+    15.5 Supercritical System
+    15.6 Controlled Chain Reaction
+    15.7 Reactor Kinetics
+    15.8 Delayed Neutrons
+    15.9 Reactivity
+
+16. NUCLEAR REACTORS
+    16.1 Reactor Principles
+    16.2 Reactor Core
+    16.3 Nuclear Fuel
+    16.4 Moderator
+    16.5 Control Rods
+    16.6 Coolant
+    16.7 Reflector
+    16.8 Reactor Shielding
+    16.9 Thermal Reactors
+    16.10 Fast Reactors
+    16.11 Pressurized Water Reactor
+    16.12 Boiling Water Reactor
+    16.13 Heavy Water Reactor
+    16.14 Gas-Cooled Reactor
+    16.15 Molten Salt Reactor
+    16.16 Small Modular Reactors
+
+17. NUCLEAR REACTOR PHYSICS
+    17.1 Neutron Transport
+    17.2 Neutron Diffusion
+    17.3 Neutron Moderation
+    17.4 Neutron Absorption
+    17.5 Neutron Multiplication
+    17.6 Reactor Kinetics
+    17.7 Reactor Criticality
+    17.8 Burnup
+    17.9 Fuel Cycle
+    17.10 Reactor Simulation
+
+18. NEUTRON PHYSICS
+    18.1 Neutron Sources
+    18.2 Neutron Production
+    18.3 Neutron Scattering
+    18.4 Thermal Neutrons
+    18.5 Fast Neutrons
+    18.6 Neutron Capture
+    18.7 Neutron Activation
+    18.8 Neutron Diffraction
+    18.9 Neutron Imaging
+
+19. RADIATION INTERACTION WITH MATTER
+    19.1 Charged Particle Interaction
+    19.2 Alpha Interaction
+    19.3 Beta Interaction
+    19.4 Gamma Interaction
+    19.5 Neutron Interaction
+    19.6 Ionization
+    19.7 Excitation
+    19.8 Bremsstrahlung
+    19.9 Pair Production
+    19.10 Compton Scattering
+    19.11 Photoelectric Effect
+
+20. RADIATION DETECTION
+    20.1 Radiation Detectors
+    20.2 Geiger-Müller Counter
+    20.3 Ionization Chamber
+    20.4 Proportional Counter
+    20.5 Scintillation Detector
+    20.6 Semiconductor Detector
+    20.7 Silicon Detector
+    20.8 Germanium Detector
+    20.9 Neutron Detector
+    20.10 Detector Efficiency
+
+21. NUCLEAR SPECTROSCOPY
+    21.1 Gamma-Ray Spectroscopy
+    21.2 Alpha Spectroscopy
+    21.3 Beta Spectroscopy
+    21.4 Nuclear Energy Spectra
+    21.5 Mössbauer Spectroscopy
+    21.6 Nuclear Magnetic Resonance
+    21.7 Resonance Fluorescence
+    21.8 Detector Calibration
+    21.9 Spectral Analysis
+
+22. RADIATION DOSIMETRY
+    22.1 Radiation Dose
+    22.2 Absorbed Dose
+    22.3 Equivalent Dose
+    22.4 Effective Dose
+    22.5 Gray
+    22.6 Sievert
+    22.7 Dose Rate
+    22.8 Radiation Protection
+    22.9 Biological Effects
+
+23. RADIATION BIOPHYSICS
+    23.1 Radiation Damage
+    23.2 DNA Damage
+    23.3 Cellular Effects
+    23.4 Radiation-Induced Mutations
+    23.5 Deterministic Effects
+    23.6 Stochastic Effects
+    23.7 Radiation Biology
+    23.8 Radiation Risk
+
+24. MEDICAL NUCLEAR PHYSICS
+    24.1 Nuclear Medicine
+    24.2 Radioisotopes in Medicine
+    24.3 Diagnostic Imaging
+    24.4 PET
+    24.5 SPECT
+    24.6 Radiopharmaceuticals
+    24.7 Nuclear Imaging
+    24.8 Radiation Therapy
+    24.9 Brachytherapy
+    24.10 Proton Therapy
+
+25. NUCLEAR ASTROPHYSICS
+    25.1 Nuclear Reactions in Stars
+    25.2 Stellar Nucleosynthesis
+    25.3 Proton-Proton Chain
+    25.4 CNO Cycle
+    25.5 Triple-Alpha Process
+    25.6 Neutron Capture
+    25.7 s-Process
+    25.8 r-Process
+    25.9 Supernova Nucleosynthesis
+    25.10 Neutron Stars
+
+26. PARTICLE PHYSICS CONNECTION
+    26.1 Elementary Particles
+    26.2 Quarks
+    26.3 Leptons
+    26.4 Hadrons
+    26.5 Mesons
+    26.6 Baryons
+    26.7 Neutrinos
+    26.8 Fundamental Forces
+    26.9 Standard Model
+    26.10 Beyond Standard Model
+
+27. NUCLEAR AND PARTICLE ACCELERATORS
+    27.1 Particle Accelerators
+    27.2 Linear Accelerators
+    27.3 Cyclotrons
+    27.4 Synchrotrons
+    27.5 Storage Rings
+    27.6 Beam Physics
+    27.7 Accelerator Magnets
+    27.8 Beam Diagnostics
+    27.9 Accelerator Applications
+
+28. QUANTUM NUCLEAR PHYSICS
+    28.1 Quantum Nuclear States
+    28.2 Nuclear Wave Functions
+    28.3 Angular Momentum
+    28.4 Nuclear Spin
+    28.5 Quantum Tunneling
+    28.6 Nuclear Shells
+    28.7 Quantum Scattering
+    28.8 Nuclear Entanglement
+
+29. RELATIVISTIC NUCLEAR PHYSICS
+    29.1 Special Relativity
+    29.2 Relativistic Energy
+    29.3 Relativistic Momentum
+    29.4 Mass-Energy Equivalence
+    29.5 Relativistic Nuclear Reactions
+    29.6 High-Energy Nuclear Collisions
+    29.7 Heavy-Ion Physics
+
+30. HEAVY-ION PHYSICS
+    30.1 Heavy-Ion Collisions
+    30.2 Nuclear Matter
+    30.3 Quark-Gluon Plasma
+    30.4 Collective Flow
+    30.5 Nuclear Fragmentation
+    30.6 Relativistic Heavy-Ion Collisions
+    30.7 Nuclear Phase Transitions
+
+31. NUCLEAR MATTER
+    31.1 Nuclear Matter
+    31.2 Symmetric Nuclear Matter
+    31.3 Neutron Matter
+    31.4 Equation of State
+    31.5 Nuclear Saturation
+    31.6 Dense Nuclear Matter
+    31.7 Neutron-Star Matter
+    31.8 Exotic Nuclear Matter
+
+32. EXOTIC NUCLEI
+    32.1 Unstable Nuclei
+    32.2 Radioactive Isotopes
+    32.3 Halo Nuclei
+    32.4 Skin Nuclei
+    32.5 Neutron-Rich Nuclei
+    32.6 Proton-Rich Nuclei
+    32.7 Superheavy Elements
+    32.8 Island of Stability
+
+33. NUCLEAR DATA AND COMPUTATIONAL PHYSICS
+    33.1 Nuclear Databases
+    33.2 Nuclear Data Analysis
+    33.3 Monte Carlo Methods
+    33.4 Numerical Nuclear Physics
+    33.5 Nuclear Reaction Simulation
+    33.6 Reactor Simulation
+    33.7 Radiation Transport Simulation
+    33.8 Statistical Analysis
+    33.9 High-Performance Computing
+
+34. AI AND NUCLEAR PHYSICS
+    34.1 Machine Learning for Nuclear Physics
+    34.2 Deep Learning
+    34.3 Nuclear Data Prediction
+    34.4 Nuclear Mass Prediction
+    34.5 Reaction Cross-Section Prediction
+    34.6 Radiation Detection with AI
+    34.7 Particle Tracking
+    34.8 Anomaly Detection
+    34.9 Nuclear Reactor Optimization
+    34.10 AI-Assisted Nuclear Simulation
+
+35. NUCLEAR ENGINEERING
+    35.1 Reactor Engineering
+    35.2 Nuclear Fuel Engineering
+    35.3 Thermal-Hydraulics
+    35.4 Reactor Materials
+    35.5 Reactor Safety
+    35.6 Nuclear Instrumentation
+    35.7 Nuclear Control Systems
+    35.8 Nuclear Waste Management
+    35.9 Decommissioning
+
+36. NUCLEAR SAFETY
+    36.1 Radiation Safety
+    36.2 Reactor Safety
+    36.3 Nuclear Criticality Safety
+    36.4 Emergency Planning
+    36.5 Accident Analysis
+    36.6 Safety Systems
+    36.7 Containment
+    36.8 Nuclear Security
+    36.9 Safety Regulations
+
+37. NUCLEAR WASTE AND FUEL CYCLE
+    37.1 Nuclear Fuel Cycle
+    37.2 Uranium Resources
+    37.3 Fuel Fabrication
+    37.4 Reactor Fuel
+    37.5 Spent Nuclear Fuel
+    37.6 Reprocessing
+    37.7 Radioactive Waste
+    37.8 Waste Conditioning
+    37.9 Geological Disposal
+    37.10 Waste Transmutation
+
+38. NUCLEAR MATERIALS
+    38.1 Nuclear Fuel Materials
+    38.2 Radiation-Resistant Materials
+    38.3 Reactor Structural Materials
+    38.4 Nuclear Ceramics
+    38.5 Nuclear Alloys
+    38.6 Radiation Damage
+    38.7 Defect Formation
+    38.8 Materials under Irradiation
+
+39. NUCLEAR APPLICATIONS
+    39.1 Nuclear Energy
+    39.2 Nuclear Medicine
+    39.3 Food Irradiation
+    39.4 Industrial Radiography
+    39.5 Thickness Measurement
+    39.6 Material Analysis
+    39.7 Archaeological Dating
+    39.8 Carbon Dating
+    39.9 Space Power
+    39.10 Nuclear Batteries
+
+40. ADVANCED NUCLEAR PHYSICS
+    40.1 Nuclear Many-Body Physics
+    40.2 Ab Initio Nuclear Theory
+    40.3 Density Functional Theory
+    40.4 Lattice Methods
+    40.5 Quantum Monte Carlo
+    40.6 Nuclear Effective Field Theory
+    40.7 Chiral Effective Field Theory
+    40.8 Computational Nuclear Physics
+    40.9 Nuclear Theory
+    40.10 Experimental Nuclear Physics
